@@ -19,7 +19,7 @@ namespace _07Inventory_Matcher
             PrintInfoForProducts(namesOfTheProducts, quantitiesOfTheProducts, pricesOfTheProducts);
 
         }
-            // make conflict for exercise 
+            // make conflict for exercise , make again.
         private static void PrintInfoForProducts(string[] namesOfTheProducts, long[] quantitiesOfTheProducts, decimal[] pricesOfTheProducts)
         {
             
