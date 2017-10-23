@@ -19,13 +19,14 @@ namespace _07Inventory_Matcher
             PrintInfoForProducts(namesOfTheProducts, quantitiesOfTheProducts, pricesOfTheProducts);
 
         }
-
+	
         private static void PrintInfoForProducts(string[] namesOfTheProducts, long[] quantitiesOfTheProducts, decimal[] pricesOfTheProducts)
         {
 
             while (true)
             {
                 string productName = Console.ReadLine();
+		// Check for "done" and stop program if true.
                 if (productName == "done")
                 {
                     break;
