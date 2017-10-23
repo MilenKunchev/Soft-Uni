@@ -1,6 +1,0 @@
-D:\softuni\Programing\C#ProgrammingFundamentals\MoreExercisesArraysMethods\08UpgradedMatcher\bin\Debug\08UpgradedMatcher.exe.config
-D:\softuni\Programing\C#ProgrammingFundamentals\MoreExercisesArraysMethods\08UpgradedMatcher\bin\Debug\08UpgradedMatcher.exe
-D:\softuni\Programing\C#ProgrammingFundamentals\MoreExercisesArraysMethods\08UpgradedMatcher\bin\Debug\08UpgradedMatcher.pdb
-D:\softuni\Programing\C#ProgrammingFundamentals\MoreExercisesArraysMethods\08UpgradedMatcher\obj\Debug\08UpgradedMatcher.csprojResolveAssemblyReference.cache
-D:\softuni\Programing\C#ProgrammingFundamentals\MoreExercisesArraysMethods\08UpgradedMatcher\obj\Debug\08UpgradedMatcher.exe
-D:\softuni\Programing\C#ProgrammingFundamentals\MoreExercisesArraysMethods\08UpgradedMatcher\obj\Debug\08UpgradedMatcher.pdb
