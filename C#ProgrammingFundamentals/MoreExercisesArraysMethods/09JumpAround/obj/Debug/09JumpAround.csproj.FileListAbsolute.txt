@@ -1,0 +1,6 @@
+D:\softuni\Programing\C#ProgrammingFundamentals\MoreExercisesArraysMethods\09JumpAround\bin\Debug\09JumpAround.exe.config
+D:\softuni\Programing\C#ProgrammingFundamentals\MoreExercisesArraysMethods\09JumpAround\bin\Debug\09JumpAround.exe
+D:\softuni\Programing\C#ProgrammingFundamentals\MoreExercisesArraysMethods\09JumpAround\bin\Debug\09JumpAround.pdb
+D:\softuni\Programing\C#ProgrammingFundamentals\MoreExercisesArraysMethods\09JumpAround\obj\Debug\09JumpAround.csprojResolveAssemblyReference.cache
+D:\softuni\Programing\C#ProgrammingFundamentals\MoreExercisesArraysMethods\09JumpAround\obj\Debug\09JumpAround.exe
+D:\softuni\Programing\C#ProgrammingFundamentals\MoreExercisesArraysMethods\09JumpAround\obj\Debug\09JumpAround.pdb
