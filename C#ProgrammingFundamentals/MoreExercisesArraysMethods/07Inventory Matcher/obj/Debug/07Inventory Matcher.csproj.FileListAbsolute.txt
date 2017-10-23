@@ -1,0 +1,6 @@
+D:\softuni\Programing\C#ProgrammingFundamentals\MoreExercisesArraysMethods\07Inventory Matcher\bin\Debug\07Inventory Matcher.exe.config
+D:\softuni\Programing\C#ProgrammingFundamentals\MoreExercisesArraysMethods\07Inventory Matcher\bin\Debug\07Inventory Matcher.exe
+D:\softuni\Programing\C#ProgrammingFundamentals\MoreExercisesArraysMethods\07Inventory Matcher\bin\Debug\07Inventory Matcher.pdb
+D:\softuni\Programing\C#ProgrammingFundamentals\MoreExercisesArraysMethods\07Inventory Matcher\obj\Debug\07Inventory Matcher.csprojResolveAssemblyReference.cache
+D:\softuni\Programing\C#ProgrammingFundamentals\MoreExercisesArraysMethods\07Inventory Matcher\obj\Debug\07Inventory Matcher.exe
+D:\softuni\Programing\C#ProgrammingFundamentals\MoreExercisesArraysMethods\07Inventory Matcher\obj\Debug\07Inventory Matcher.pdb
