@@ -1,0 +1,5 @@
+D:\softuni\Programing\C#ProgrammingFundamentals\Lists\SquareNumbers\bin\Debug\SquareNumbers.exe.config
+D:\softuni\Programing\C#ProgrammingFundamentals\Lists\SquareNumbers\bin\Debug\SquareNumbers.exe
+D:\softuni\Programing\C#ProgrammingFundamentals\Lists\SquareNumbers\bin\Debug\SquareNumbers.pdb
+D:\softuni\Programing\C#ProgrammingFundamentals\Lists\SquareNumbers\obj\Debug\SquareNumbers.exe
+D:\softuni\Programing\C#ProgrammingFundamentals\Lists\SquareNumbers\obj\Debug\SquareNumbers.pdb

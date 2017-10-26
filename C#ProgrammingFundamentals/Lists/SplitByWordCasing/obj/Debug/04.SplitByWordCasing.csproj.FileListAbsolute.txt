@@ -1,0 +1,6 @@
+D:\softuni\Programing\C#ProgrammingFundamentals\Lists\SplitByWordCasing\bin\Debug\SplitByWordCasing.exe.config
+D:\softuni\Programing\C#ProgrammingFundamentals\Lists\SplitByWordCasing\bin\Debug\SplitByWordCasing.exe
+D:\softuni\Programing\C#ProgrammingFundamentals\Lists\SplitByWordCasing\bin\Debug\SplitByWordCasing.pdb
+D:\softuni\Programing\C#ProgrammingFundamentals\Lists\SplitByWordCasing\obj\Debug\04.SplitByWordCasing.csprojResolveAssemblyReference.cache
+D:\softuni\Programing\C#ProgrammingFundamentals\Lists\SplitByWordCasing\obj\Debug\SplitByWordCasing.exe
+D:\softuni\Programing\C#ProgrammingFundamentals\Lists\SplitByWordCasing\obj\Debug\SplitByWordCasing.pdb
