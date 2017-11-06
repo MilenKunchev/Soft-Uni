@@ -29,13 +29,13 @@ namespace BombNumbers
                 {
                     int bombPosition = i;
                     int counter = 0;
-                    while (counter != power + 1 && (bombPosition) < numbers.Count) //remove left lements
+                    while (counter != power + 1 && (bombPosition) < numbers.Count) 
                     {
                         numbers.RemoveAt(bombPosition);
                         counter++;
                     }
                     counter = 0;
-                    while (counter != power && (bombPosition - (counter + 1)) >= 0) //remove left lements
+                    while (counter != power && (bombPosition - (counter + 1)) >= 0) 
                     {
                         numbers.RemoveAt(bombPosition - (counter + 1));
                         counter++;
