@@ -1,6 +1,0 @@
-D:\softuni\Programing\Programing fundamentals exams\Programming Fundamentals Retake Exam - 05 January 2018\Exam05January2018\temp\bin\Debug\temp.exe.config
-D:\softuni\Programing\Programing fundamentals exams\Programming Fundamentals Retake Exam - 05 January 2018\Exam05January2018\temp\bin\Debug\temp.exe
-D:\softuni\Programing\Programing fundamentals exams\Programming Fundamentals Retake Exam - 05 January 2018\Exam05January2018\temp\bin\Debug\temp.pdb
-D:\softuni\Programing\Programing fundamentals exams\Programming Fundamentals Retake Exam - 05 January 2018\Exam05January2018\temp\obj\Debug\temp.exe
-D:\softuni\Programing\Programing fundamentals exams\Programming Fundamentals Retake Exam - 05 January 2018\Exam05January2018\temp\obj\Debug\temp.pdb
-D:\softuni\Programing\Programing fundamentals exams\Programming Fundamentals Retake Exam - 05 January 2018\Exam05January2018\temp\obj\Debug\temp.csprojResolveAssemblyReference.cache

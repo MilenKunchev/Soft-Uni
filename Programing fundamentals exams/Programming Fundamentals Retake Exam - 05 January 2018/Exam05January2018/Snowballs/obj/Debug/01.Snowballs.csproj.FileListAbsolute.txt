@@ -1,6 +1,0 @@
-D:\softuni\Programing\Programing fundamentals exams\Programming Fundamentals Retake Exam - 05 January 2018\Exam05January2018\Snowballs\bin\Debug\Snowballs.exe.config
-D:\softuni\Programing\Programing fundamentals exams\Programming Fundamentals Retake Exam - 05 January 2018\Exam05January2018\Snowballs\bin\Debug\Snowballs.exe
-D:\softuni\Programing\Programing fundamentals exams\Programming Fundamentals Retake Exam - 05 January 2018\Exam05January2018\Snowballs\bin\Debug\Snowballs.pdb
-D:\softuni\Programing\Programing fundamentals exams\Programming Fundamentals Retake Exam - 05 January 2018\Exam05January2018\Snowballs\obj\Debug\01.Snowballs.csprojResolveAssemblyReference.cache
-D:\softuni\Programing\Programing fundamentals exams\Programming Fundamentals Retake Exam - 05 January 2018\Exam05January2018\Snowballs\obj\Debug\Snowballs.exe
-D:\softuni\Programing\Programing fundamentals exams\Programming Fundamentals Retake Exam - 05 January 2018\Exam05January2018\Snowballs\obj\Debug\Snowballs.pdb

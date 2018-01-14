@@ -1,6 +1,0 @@
-D:\softuni\Programing\Programing fundamentals exams\Programming Fundamentals Retake Exam - 05 January 2018\Exam05January2018\Snowmen\bin\Debug\Snowmen.exe.config
-D:\softuni\Programing\Programing fundamentals exams\Programming Fundamentals Retake Exam - 05 January 2018\Exam05January2018\Snowmen\bin\Debug\Snowmen.exe
-D:\softuni\Programing\Programing fundamentals exams\Programming Fundamentals Retake Exam - 05 January 2018\Exam05January2018\Snowmen\bin\Debug\Snowmen.pdb
-D:\softuni\Programing\Programing fundamentals exams\Programming Fundamentals Retake Exam - 05 January 2018\Exam05January2018\Snowmen\obj\Debug\02.Snowmen.csprojResolveAssemblyReference.cache
-D:\softuni\Programing\Programing fundamentals exams\Programming Fundamentals Retake Exam - 05 January 2018\Exam05January2018\Snowmen\obj\Debug\Snowmen.exe
-D:\softuni\Programing\Programing fundamentals exams\Programming Fundamentals Retake Exam - 05 January 2018\Exam05January2018\Snowmen\obj\Debug\Snowmen.pdb
