@@ -1,0 +1,6 @@
+D:\softuni\Programing\Programing fundamentals exams\Programming Fundamentals Retake Exam - 05 January 2018\Exam05January2018\Snowflake\bin\Debug\Snowflake.exe.config
+D:\softuni\Programing\Programing fundamentals exams\Programming Fundamentals Retake Exam - 05 January 2018\Exam05January2018\Snowflake\bin\Debug\Snowflake.exe
+D:\softuni\Programing\Programing fundamentals exams\Programming Fundamentals Retake Exam - 05 January 2018\Exam05January2018\Snowflake\bin\Debug\Snowflake.pdb
+D:\softuni\Programing\Programing fundamentals exams\Programming Fundamentals Retake Exam - 05 January 2018\Exam05January2018\Snowflake\obj\Debug\Snowflake.csprojResolveAssemblyReference.cache
+D:\softuni\Programing\Programing fundamentals exams\Programming Fundamentals Retake Exam - 05 January 2018\Exam05January2018\Snowflake\obj\Debug\Snowflake.exe
+D:\softuni\Programing\Programing fundamentals exams\Programming Fundamentals Retake Exam - 05 January 2018\Exam05January2018\Snowflake\obj\Debug\Snowflake.pdb

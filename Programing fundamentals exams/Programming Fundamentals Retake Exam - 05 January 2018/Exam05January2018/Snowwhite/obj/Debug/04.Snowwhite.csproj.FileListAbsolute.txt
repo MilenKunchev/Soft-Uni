@@ -1,0 +1,6 @@
+D:\softuni\Programing\Programing fundamentals exams\Programming Fundamentals Retake Exam - 05 January 2018\Exam05January2018\Snowwhite\bin\Debug\Snowwhite.exe.config
+D:\softuni\Programing\Programing fundamentals exams\Programming Fundamentals Retake Exam - 05 January 2018\Exam05January2018\Snowwhite\bin\Debug\Snowwhite.exe
+D:\softuni\Programing\Programing fundamentals exams\Programming Fundamentals Retake Exam - 05 January 2018\Exam05January2018\Snowwhite\bin\Debug\Snowwhite.pdb
+D:\softuni\Programing\Programing fundamentals exams\Programming Fundamentals Retake Exam - 05 January 2018\Exam05January2018\Snowwhite\obj\Debug\Snowwhite.exe
+D:\softuni\Programing\Programing fundamentals exams\Programming Fundamentals Retake Exam - 05 January 2018\Exam05January2018\Snowwhite\obj\Debug\Snowwhite.pdb
+D:\softuni\Programing\Programing fundamentals exams\Programming Fundamentals Retake Exam - 05 January 2018\Exam05January2018\Snowwhite\obj\Debug\04.Snowwhite.csprojResolveAssemblyReference.cache
