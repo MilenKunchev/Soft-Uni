@@ -13,48 +13,57 @@ namespace MasterNumbers
             int endNumber = int.Parse(Console.ReadLine());
             for (int num = 1; num <= endNumber; num++)
             {
-                if (IsPalindrome(num) && SumOfDigits(num) && ContainsEvenDigit(num))
+                if (CheckForPalindrome(num) && CheckForSumOfDigitsDivisibleBy7(num) && ContainsEvenDigit(num))
                 {
                     Console.WriteLine(num);
                 }
             }
         }
 
-        private static bool IsPalindrome(int num)
+        private static bool CheckForPalindrome(int num)
         {
             string number = num.ToString();
-            var reversed = new string(number.Reverse().ToArray());
-            var palindrom = number == reversed;
-            return palindrom;
+            for (int i = 0; i < number.Length / 2; i++)
+            {
+                if (number[i] != number[number.Length - 1 - i])
+                {
+                    return false;
+                }
+            }
+            return true;
         }
 
-        private static bool SumOfDigits(int num)
+        private static bool CheckForSumOfDigitsDivisibleBy7(int num)
         {
-            string number = num.ToString();
             int sum = 0;
-            foreach (var item in number)
+
+            while (num != 0)
             {
-                sum += (int)Char.GetNumericValue(item);
+                int lastDigit = num % 10;
+                sum += lastDigit;
+                num = num / 10;
             }
+
             if (sum % 7 == 0)
             {
                 return true;
             }
-
-            return false;
-
+            else
+            {
+                return false;
+            }
         }
 
         private static bool ContainsEvenDigit(int num)
         {
-            string number = num.ToString();
-            foreach (var item in number)
+            while (num != 0)
             {
-                if ((int)Char.GetNumericValue(item) % 2 == 0)
+                int lastDigit = num % 10;
+                if (lastDigit % 2 == 0)
                 {
                     return true;
                 }
-
+                num = num / 10;
             }
             return false;
         }

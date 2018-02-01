@@ -1,0 +1,6 @@
+D:\softuni\Programing\C#ProgrammingFundamentals\MethodsDebuggingTroubleshootingExercises\LongerLine\bin\Debug\LongerLine.exe.config
+D:\softuni\Programing\C#ProgrammingFundamentals\MethodsDebuggingTroubleshootingExercises\LongerLine\bin\Debug\LongerLine.exe
+D:\softuni\Programing\C#ProgrammingFundamentals\MethodsDebuggingTroubleshootingExercises\LongerLine\bin\Debug\LongerLine.pdb
+D:\softuni\Programing\C#ProgrammingFundamentals\MethodsDebuggingTroubleshootingExercises\LongerLine\obj\Debug\LongerLine.exe
+D:\softuni\Programing\C#ProgrammingFundamentals\MethodsDebuggingTroubleshootingExercises\LongerLine\obj\Debug\LongerLine.pdb
+D:\softuni\Programing\C#ProgrammingFundamentals\MethodsDebuggingTroubleshootingExercises\LongerLine\obj\Debug\09.LongerLine.csprojResolveAssemblyReference.cache
