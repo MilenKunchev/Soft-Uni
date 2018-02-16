@@ -8,8 +8,7 @@ namespace DragonArmy
 {
     class Program
     {
-        public static List<string> ReadInputFromConsole { get; private set; }
-
+        
         static void Main(string[] args)
         {
             Dictionary<string, Dictionary<string, List<int>>> dragonsInfo = new
