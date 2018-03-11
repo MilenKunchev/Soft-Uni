@@ -1,1 +1,2 @@
-<h1 style="text-align: center;"><a href="https://softuni.bg/about" target="_blank"> My Software-university trainings</a></h1>
+# <a href="https://softuni.bg/about" rel=" My Software-university trainings"><p align="center"> My Software-university trainings<p>
+</a>
