@@ -1198,7 +1198,7 @@
 <td width="62">
 <p>Yes</p>
 </td>
-<td width="348">&nbsp;<img src="/images/cyrcles3.png" alt="" width="342" height="180" /></td>
+<td width="348">&nbsp;<img src="https://raw.githubusercontent.com/MilenKunchev/Soft-Uni/master/Software-Technologies/JAVA%20Basic%20Syntax%20-%20Exercises/images/cyrcles3.png" alt="" width="342" height="180" /></td>
 </tr>
 </tbody>
 </table>
