@@ -1074,7 +1074,7 @@
 <td width="61">
 <p>4</p>
 </td>
-<td width="279">&nbsp;<img src="https://github.com/MilenKunchev/Soft-Uni/blob/master/inages/Soft-Tech_readmi_java_images/calendar1.png" alt="" width="279" height="180" /></td>
+<td width="279">&nbsp;<img src="https://github.com/MilenKunchev/Soft-Uni/blob/master/images/Soft-Tech_readmi_java_images/calendar1.png" alt="" width="279" height="180" /></td>
 </tr>
 <tr>
 <td width="100">
@@ -1084,7 +1084,7 @@
 <td width="61">
 <p>10</p>
 </td>
-<td width="279">&nbsp;<img src="https://github.com/MilenKunchev/Soft-Uni/blob/master/inages/Soft-Tech_readmi_java_images/calendar2.png" alt="" width="279" height="180" /></td>
+<td width="279">&nbsp;<img src="https://github.com/MilenKunchev/Soft-Uni/blob/master/images/Soft-Tech_readmi_java_images/calendar2.png" alt="" width="279" height="180" /></td>
 </tr>
 <tr>
 <td width="100">
@@ -1094,7 +1094,7 @@
 <td width="61">
 <p>7</p>
 </td>
-<td width="280">&nbsp;<img src="https://github.com/MilenKunchev/Soft-Uni/blob/master/inages/Soft-Tech_readmi_java_images/calendar3.png" alt="" width="203" height="203" /></td>
+<td width="280">&nbsp;<img src="https://github.com/MilenKunchev/Soft-Uni/blob/master/images/Soft-Tech_readmi_java_images/calendar3.png" alt="" width="203" height="203" /></td>
 </tr>
 </tbody>
 </table>
@@ -1178,7 +1178,7 @@
 <td width="62">
 <p>No</p>
 </td>
-<td width="348">&nbsp;<img src="https://github.com/MilenKunchev/Soft-Uni/blob/master/inages/Soft-Tech_readmi_java_images/cyrcles1.png" alt="" width="348" height="342" /></td>
+<td width="348">&nbsp;<img src="https://github.com/MilenKunchev/Soft-Uni/blob/master/images/Soft-Tech_readmi_java_images/cyrcles1.png" alt="" width="348" height="342" /></td>
 </tr>
 <tr>
 <td width="60">
@@ -1188,7 +1188,7 @@
 <td width="62">
 <p>Yes</p>
 </td>
-<td width="348">&nbsp;<img src="https://github.com/MilenKunchev/Soft-Uni/blob/master/inages/Soft-Tech_readmi_java_images/cyrcles2.png" alt="" width="348" height="342" /></td>
+<td width="348">&nbsp;<img src="https://github.com/MilenKunchev/Soft-Uni/blob/master/images/Soft-Tech_readmi_java_images/cyrcles2.png" alt="" width="348" height="342" /></td>
 </tr>
 <tr>
 <td width="60">
@@ -1198,7 +1198,7 @@
 <td width="62">
 <p>Yes</p>
 </td>
-<td width="418">&nbsp;<img src="https://github.com/MilenKunchev/Soft-Uni/blob/master/inages/Soft-Tech_readmi_java_images/cyrcles3.png" alt="" width="418" height="321" /></td>
+<td width="418">&nbsp;<img src="https://github.com/MilenKunchev/Soft-Uni/blob/master/images/Soft-Tech_readmi_java_images/cyrcles3.png" alt="" width="418" height="321" /></td>
 </tr>
 </tbody>
 </table>
