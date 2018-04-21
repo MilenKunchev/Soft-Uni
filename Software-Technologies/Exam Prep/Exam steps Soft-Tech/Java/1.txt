@@ -1,0 +1,4 @@
+Inport project
+
+application properties  - name of database 
+change to utf8_genereal_c by hand in DB

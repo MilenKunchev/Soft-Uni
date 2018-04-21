@@ -1,0 +1,24 @@
+run project from terminal ---->php bin/console server:run
+----------------------------------------------------------
+run DataBase xampp
+run Php xampp
+
+If no composer.phar -->project folder\  composer update or install
+
+Else -->project folder\  php composer.phar install
+
+create database ---> php bin/console doctrine:database:create --if-not-exists
+
+
+delete Entity 
+delete Repository
+
+create new Entity
+create new Repository -->project folder\ php bin/console doctrine:generate:entity
+	->entity name - > AppBundle: Name  - from entity old file name 
+properties ---> from Data Model *.doc File
+
+
+
+create table ---> php bin/console doctrine:schema:update --force
+

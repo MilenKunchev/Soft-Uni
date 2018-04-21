@@ -1,0 +1,15 @@
+start project - Node.js
+javacript file = bin\www
+
+Inport project
+
+file/settings ECMANScript 6 
+
+Terminal in project root
+
+npm install
+
+create database with HeidiSQL  --copy name from config/config.js
+
+
+TODO

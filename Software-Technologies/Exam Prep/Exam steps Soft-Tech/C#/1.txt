@@ -1,0 +1,10 @@
+run with ctr+f5
+ctr+shif+b  ruild and then refresh project
+refresh
+
+Open with vs2017
+
+DataBase name is in Models ***DbContext.cs
+
+1 - model
+2 - controller
