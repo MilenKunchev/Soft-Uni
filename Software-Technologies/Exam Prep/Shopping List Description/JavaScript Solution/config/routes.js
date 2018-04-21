@@ -1,0 +1,11 @@
+const filmController = require('../controllers/product');
+
+module.exports = (app) => {
+    app.get('/', filmController.index);
+
+	app.get('/create/', filmController.createGet);
+	app.post('/create/', filmController.createPost);
+
+	app.get('/edit/:id', filmController.editGet);
+	app.post('/edit/:id', filmController.editPost);
+};
