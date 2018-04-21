@@ -1,5 +1,5 @@
 run with ctr+f5
-ctr+shif+b  ruild and then refresh project
+ctr+shif+b  build and then refresh project
 refresh
 
 Open with vs2017
