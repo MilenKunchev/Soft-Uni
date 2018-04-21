@@ -3,7 +3,6 @@
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=windows-1251">
 <meta name=Generator content="Microsoft Word 14 (filtered)">
-<title>Software Technologies - Exam</title>
 <style>
 <!--
  /* Font Definitions */
@@ -299,7 +298,7 @@ ul
 <div class=WordSection1>
 
 <h1 align=center style='margin-top:0cm;text-align:center'><a
-name="_Hlk490472965">Kanban Board – Exam Preparation</a></h1>
+name="_Hlk490472965">Kanban Board вЂ“ Exam Preparation</a></h1>
 
 <p class=MsoNormal>You have been tasked to create a simple <a
 href="https://mktgcdn.leankit.com/uploads/images/general/_xLarge/kanban-board-e60650d1-1.jpg">Kanban
@@ -308,7 +307,7 @@ main app <b>entities</b>. Tasks can change their status: <b>open</b> <span
 style='font-family:Wingdings'>&agrave;</span> <b>in progress</b> <span
 style='font-family:Wingdings'>&agrave;</span> <b>done</b>. The app is called <span
 class=CodeChar>TeisterMask</span>, like the popular Kanban board task
-management app “<b>Meister Task</b>”.</p>
+management app вЂњ<b>Meister Task</b>вЂќ.</p>
 
 <p class=MsoNormal>The functionality of the application should support <b>creating</b>,
 <b>listing</b> and <b>editing</b> tasks.</p>
@@ -323,76 +322,76 @@ technologies</b>:</p>
 <h3>JavaScript</h3>
 
 <p class=MsoListParagraphCxSpFirst style='text-indent:-18.0pt'><span
-style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-family:Symbol'>В·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><b>NodeJS </b>+<b> ExpressJS </b>frameworks</p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt'><span
-style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-family:Symbol'>В·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><b>Handlebars.js </b>view engine</p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt'><span
-style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-family:Symbol'>В·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><b>Sequelize </b>ORM</p>
 
 <p class=MsoListParagraphCxSpLast style='text-indent:-18.0pt'><span
-style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-family:Symbol'>В·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><b>MySQL </b>database</p>
 
 <h3>PHP</h3>
 
 <p class=MsoListParagraphCxSpFirst style='text-indent:-18.0pt'><span
-style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-family:Symbol'>В·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><b>Symfony </b>framework</p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt'><span
-style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-family:Symbol'>В·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><b>Twig </b>view engine</p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt'><span
-style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-family:Symbol'>В·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><b>Doctrine</b> ORM</p>
 
 <p class=MsoListParagraphCxSpLast style='text-indent:-18.0pt'><span
-style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-family:Symbol'>В·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><b>MySQL </b>database</p>
 
 <h3>Java</h3>
 
 <p class=MsoListParagraphCxSpFirst style='text-indent:-18.0pt'><span
-style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-family:Symbol'>В·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><b>Spring </b>framework (<b>Spring MVC</b> + <b>Spring Boot</b> +
 <b>Spring Data</b>)</p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt'><span
-style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-family:Symbol'>В·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><b>Thymeleaf </b>view engine</p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt'><span
-style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-family:Symbol'>В·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><b>JPA </b>/ <b>Hibernate ORM </b>+<b> Spring Data </b>data
 access</p>
 
 <p class=MsoListParagraphCxSpLast style='text-indent:-18.0pt'><span
-style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-family:Symbol'>В·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><b>MySQL </b>database</p>
 
 <h3>C#</h3>
 
 <p class=MsoListParagraphCxSpFirst style='text-indent:-18.0pt'><span
-style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-family:Symbol'>В·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><b>ASP.NET Core </b>framework (<b>ASP.NET MVC</b> + <b>Entity
 Framework Core</b>)</p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt'><span
-style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-family:Symbol'>В·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><b>Razor </b>view engine</p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt'><span
-style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-family:Symbol'>В·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><b>Entity Framework Core </b>ORM</p>
 
 <p class=MsoListParagraphCxSpLast style='text-indent:-18.0pt'><span
-style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-family:Symbol'>В·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><b>MySQL </b>database</p>
 
 <h3>Data Model</h3>
@@ -401,10 +400,10 @@ style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nb
 properties</b>:</p>
 
 <p class=MsoListParagraphCxSpFirst style='text-indent:-18.0pt'><span
-class=CodeChar><span style='font-family:Symbol;font-weight:normal'>·<span
+class=CodeChar><span style='font-family:Symbol;font-weight:normal'>В·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><span class=CodeChar>id</span><span class=CodeChar><span
-style='font-family:"Calibri","sans-serif";font-weight:normal'> –</span></span><span
+style='font-family:"Calibri","sans-serif";font-weight:normal'> вЂ“</span></span><span
 class=CodeChar><span style='font-family:"Calibri","sans-serif";font-weight:
 normal'> </span></span><span class=CodeChar><span style='font-family:"Calibri","sans-serif";
 font-weight:normal'>technology-dependent identifier </span></span><span
@@ -415,37 +414,37 @@ class=CodeChar><span style='font-family:"Calibri","sans-serif";font-weight:
 normal'> for all other technologies)</span></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt'><span
-style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-family:Symbol'>В·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span class=CodeChar>title</span> <span class=CodeChar><span
-style='font-family:"Calibri","sans-serif";font-weight:normal'>– non-empty text</span></span></p>
+style='font-family:"Calibri","sans-serif";font-weight:normal'>вЂ“ non-empty text</span></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt'><span
-style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-family:Symbol'>В·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span class=CodeChar>status</span> <span class=CodeChar><span
-style='font-family:"Calibri","sans-serif";font-weight:normal'>– non-empty text</span></span>,
+style='font-family:"Calibri","sans-serif";font-weight:normal'>вЂ“ non-empty text</span></span>,
 which can hold <b>either of the following values:</b></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:72.0pt;text-indent:-18.0pt'><span
 style='font-family:"Courier New"'>o<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
-</span></span><b>“Open”</b></p>
+</span></span><b>вЂњOpenвЂќ</b></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:72.0pt;text-indent:-18.0pt'><span
 style='font-family:"Courier New"'>o<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
-</span></span><b>“In Progress”</b></p>
+</span></span><b>вЂњIn ProgressвЂќ</b></p>
 
 <p class=MsoListParagraphCxSpLast style='margin-left:72.0pt;text-indent:-18.0pt'><span
 style='font-family:"Courier New"'>o<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
-</span></span><b>“Finished”</b></p>
+</span></span><b>вЂњFinishedвЂќ</b></p>
 
 <h2>Project Skeletons</h2>
 
-<p class=MsoNormal><a name="_Hlk490473892">You will be given the applications’ </a><span
+<p class=MsoNormal><a name="_Hlk490473892">You will be given the applicationsвЂ™ </a><span
 class=CodeChar>skeletons</span>, which holds about <b>90%</b> of the logic.
-You’ll be given some <b>files</b> (<b>controllers</b>, <b>models</b> etc.). The
-files will have<b> partially implemented logic</b>, so you’ll need to write
+YouвЂ™ll be given some <b>files</b> (<b>controllers</b>, <b>models</b> etc.). The
+files will have<b> partially implemented logic</b>, so youвЂ™ll need to write
 some code for the application to <b>function properly</b>.</p>
 
-<p class=MsoNormal>The application’s views will be given to you fully
+<p class=MsoNormal>The applicationвЂ™s views will be given to you fully
 implemented. You only need to include them in your business logic.</p>
 
 <p class=MsoNormal><b>Each technology</b> will have its <b>own skeleton</b>,
@@ -459,13 +458,13 @@ Skeleton on your account.</p>
 
 <h2>User Interface</h2>
 
-<p class=MsoNormal>This is the user interface or how the application’s pages
+<p class=MsoNormal>This is the user interface or how the applicationвЂ™s pages
 should look in their final form (fully implemented). You have several pages,
 described below:</p>
 
 <h3>Index Page</h3>
 
-<h4>Route: <span class=CodeChar><span style='color:windowtext'>“/”</span></span></h4>
+<h4>Route: <span class=CodeChar><span style='color:windowtext'>вЂњ/вЂќ</span></span></h4>
 
 <p class=MsoNormal>Each of the three columns lists <b>only the tasks in that
 status</b>:</p>
@@ -481,14 +480,14 @@ src="README.md_files/image002.jpg"></p>
 
 <h3>Create Page</h3>
 
-<h4>Route: <span class=CodeChar><span style='color:windowtext'>“/create”</span></span></h4>
+<h4>Route: <span class=CodeChar><span style='color:windowtext'>вЂњ/createвЂќ</span></span></h4>
 
 <p class=MsoNormal><img border=0 width=698 height=403 id="Picture 11"
 src="README.md_files/image003.jpg"></p>
 
 <h3>Edit Page</h3>
 
-<h4>Route: <span class=CodeChar><span style='color:windowtext'>“/edit/{id}”</span></span></h4>
+<h4>Route: <span class=CodeChar><span style='color:windowtext'>вЂњ/edit/{id}вЂќ</span></span></h4>
 
 <p class=MsoNormal><img border=0 width=698 height=403 id="Picture 12"
 src="README.md_files/image004.jpg"></p>
@@ -499,7 +498,7 @@ src="README.md_files/image004.jpg"></p>
 Most of the routing logic will be given to you in the <b>Skeleton</b>, but you
 should make sure that the application <b>works properly</b>.</p>
 
-<p class=MsoNormal>Implement the “<b>TeisterMask”</b><b> Kanban Board app</b>
+<p class=MsoNormal>Implement the вЂњ<b>TeisterMaskвЂќ</b><b> Kanban Board app</b>
 using all the above described <b>4 technologies</b>.</p>
 
 <h2>Setup</h2>
@@ -517,7 +516,7 @@ folder resides)</p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt'>2.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Make
-sure you’ve started your <b>MySQL server</b> (either from <b>XAMPP</b> or
+sure youвЂ™ve started your <b>MySQL server</b> (either from <b>XAMPP</b> or
 standalone)</p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt'>3.<span
@@ -528,13 +527,13 @@ directory</b>: [Shift] + [Right click] <span style='font-family:Wingdings'>&egra
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt'>4.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Enter
-the “<span class=CodeChar>php composer.phar install</span>” command to restore
+the вЂњ<span class=CodeChar>php composer.phar install</span>вЂќ command to restore
 its <b>Composer dependencies</b> (described in <span class=CodeChar>composer.json</span>)</p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt'>5.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Enter
-the “<span class=CodeChar>php bin/console doctrine:database:create
---if-not-exists</span>” command</p>
+the вЂњ<span class=CodeChar>php bin/console doctrine:database:create
+--if-not-exists</span>вЂќ command</p>
 
 <p class=MsoListParagraphCxSpLast style='text-indent:-18.0pt'>6.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Done!</p>
@@ -554,7 +553,7 @@ directory</b>: [Shift] + [Right click] <span style='font-family:Wingdings'>&egra
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt'>3.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Enter
-the “<span class=CodeChar>npm install</span>” command to restore its <b>Node.js
+the вЂњ<span class=CodeChar>npm install</span>вЂќ command to restore its <b>Node.js
 dependencies</b> (described in <span class=CodeChar>package.json</span>)</p>
 
 <p class=MsoListParagraphCxSpLast style='text-indent:-18.0pt'>4.<span
