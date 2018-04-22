@@ -18,14 +18,18 @@
         [Route("")]
         public IActionResult Index()
         {
-            return null;
+            List<Task> tasks = this.dbContext
+                .Tasks
+                .ToList();
+
+            return View(tasks);
         }
 
         [HttpGet]
         [Route("/create")]
         public IActionResult Create()
         {
-            return null;
+            return View();
         }
 
         [HttpPost]
@@ -33,14 +37,21 @@
         [ValidateAntiForgeryToken]
         public IActionResult Create(Task task)
         {
-            return null;
+            this.dbContext.Tasks.Add(task);
+            this.dbContext.SaveChanges();
+
+            return RedirectToAction("Index");
         }
 
         [HttpGet]
         [Route("/edit/{id}")]
         public IActionResult Edit(int id)
         {
-            return null;
+            Task task = this.dbContext
+                .Tasks
+                .Find(id);
+
+            return View(task);
         }
 
         [HttpPost]
@@ -48,7 +59,12 @@
         [ValidateAntiForgeryToken]
         public IActionResult EditConfirm(Task taskModel)
         {
-            return null;
+            this.dbContext.Tasks.Update(taskModel);
+            this.dbContext.SaveChanges();
+
+
+            return Redirect("/");
+            //return RedirectToAction("Index");
         }
     }
 }
